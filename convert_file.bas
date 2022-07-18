@@ -1,3 +1,4 @@
+Attribute VB_Name = "convert_file"
 Sub ChangeFileFormat()
 
     Dim strCurrentFileExt   As String
